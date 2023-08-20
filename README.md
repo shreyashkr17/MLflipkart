@@ -1,4 +1,7 @@
-                                                          ❤️Made with love by Team Shagun(FlipKart Grid)❤️
+❤️Made with love by Team Shagun(FlipKart Grid)❤️
+
+Videos, photos and presentation link: https://drive.google.com/drive/folders/10zSiCN7IzVOq8yBw-ReDOsT2FEu6Ob_J?usp=sharing
+
 Statement : 
 *Problem Statement: Comprehensive Retail Data Analysis*
 
@@ -125,4 +128,4 @@ While the product recommendation system outlined in the previous solution approa
 
 To address these limitations, e-commerce companies like Flipkart should adopt a holistic approach that combines technological advancements with ethical considerations. Regular audits of the recommendation algorithms, continuous feedback loops with users, and transparency about data usage and recommendations can mitigate these challenges. By focusing on user empowerment, data privacy, and algorithmic fairness, Flipkart can ensure that its recommendation system enhances  
 
-                                                          ❤️Made with love by Team Shagun(FlipKart Grid)❤️
+❤️Made with love by Team Shagun(FlipKart Grid)❤️
