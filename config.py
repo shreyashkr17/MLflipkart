@@ -1,5 +1,5 @@
 # MySQL database credentials
-hosts = "localhost"
+host = "localhost"
 user = "skumar"
 password = "root"
 # port = "3306"
